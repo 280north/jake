@@ -1,0 +1,5 @@
+#!/usr/bin/env narwhal
+
+var jake = require("jake");
+
+jake.application().run();

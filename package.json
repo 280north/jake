@@ -1,0 +1,6 @@
+{
+    "name": "jake",
+    "author": "Francisco Tolmasky (http://tolmasky.com/)",
+    "description": "A build system for CommonJS, lifted from Rake",
+    "keywords": ["build", "jake", "rake", "make"]
+}
