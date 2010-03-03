@@ -3,5 +3,5 @@
     "author": "Francisco Tolmasky (http://tolmasky.com/)",
     "description": "A build system for CommonJS, lifted from Rake",
     "keywords": ["build", "jake", "rake", "make"],
-    "version":"0.1.3"
+    "version":"0.1.2"
 }
