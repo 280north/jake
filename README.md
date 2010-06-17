@@ -1,7 +1,7 @@
 Jake
 ====
 
-Jake is a build tool similar to Make and Rake, but written in and for JavaScript. It's a port of Ruby's [Rake](http://rake.rubyforge.org/), which is inspired by the classic [Make](http://en.wikipedia.org/wiki/Make_(software)) tool.
+Jake is a build tool similar to Make and Rake, but written in and for JavaScript. It's a port of Ruby's [Rake](http://rake.rubyforge.org/), which is inspired by the classic [Make](http://en.wikipedia.org/wiki/Make_(software\)) tool.
 
 Currently it runs on the [Narwhal](http://narwhaljs.org/) server-side JavaScript platform, but is intended to support any compliant [CommonJS](http://commonjs.org/) system as it matures.
 
