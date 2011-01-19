@@ -1,0 +1,41 @@
+These Narwhal APIs are used:
+
+require("file")
+    SYNC:
+        FILE.absolute
+        FILE.basename
+        FILE.dirname
+        FILE.join
+        FILE.fnmatch
+        FILE.cwd
+    SYNC/ASYNC:
+        FILE.mkdirs
+        FILE.rmtree
+        FILE.exists
+        FILE.isDirectory
+        FILE.glob
+        FILE.mtime
+
+require("system")
+    SYNC:
+        SYSTEM.args
+        SYSTEM.env
+
+require("os")
+    SYNC:
+        OS.enquote
+        OS.exit
+    SYNC/ASYNC:
+        OS.system
+
+require("narwhal/util")
+    SYNC:
+        UTIL.copy
+
+require("printf")
+    SYNC:
+        PRINTF.printf
+
+require("narwhal/args")
+    SYNC:
+        ARGS.Parser
